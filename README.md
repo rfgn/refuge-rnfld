@@ -7,6 +7,7 @@ Instructions:
 REFUGE: Retinal Fundus Glaucoma Challenge 
 
 Link: https://refuge.grand-challenge.org/home/
+
 License: Creative Commons Attribution
 
 Citation Author(s):
