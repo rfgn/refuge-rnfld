@@ -1,7 +1,7 @@
 # refuge-rnfld
 RNFLD annotation for the publicly available REFUGE dataset
 
-The dataset, named RNFLD_{refuge}, contains all of the fundus images in the REFUGE dataset. Ophthalmologists annotated these fundus images by bounding RNFLD areas without referring to any auxilary information of the REFUGE dataset. RNFLD_{refuge} uses the same partition setting with the REFUGE dataset. RNFLDrefuge Totally has 1,200 Fundus images, which are separated to three subsets averagely according to their using purpose. The ratios of positive and negative instances in the three subsets are different. 
+The dataset, named $RNFLD_{refuge}$, contains all of the fundus images in the REFUGE dataset. Ophthalmologists annotated these fundus images by bounding RNFLD areas without referring to any auxilary information of the REFUGE dataset. $RNFLD_{refuge}$ uses the same partition setting with the REFUGE dataset. $RNFLD_{refuge}$ Totally has 1,200 Fundus images, which are separated to three subsets averagely according to their using purpose. The ratios of positive and negative instances in the three subsets are different. 
 
 <img src="illu.PNG" alt="illu">
 
